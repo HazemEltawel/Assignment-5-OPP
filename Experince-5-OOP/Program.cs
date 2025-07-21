@@ -9,6 +9,6 @@ class Program
 
         Assignment_5_OPP.Question_01.IRectangle rectangle = new My_Rectangle(4, 6);
         circle.DisplayShapeInfo();
-        rectangle.DisplayShapeInfo(); 
+        rectangle.DisplayShapeInfo();  
      }
 }
